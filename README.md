@@ -26,13 +26,9 @@ Key highlights of the project include:
 
 - Data Preprocessing: Clean the data by handling missing, error values. Transform categorical variables, scale numerical features.
 
-- Model Selection and Optimization: Choose appropriate algorithms for credit risk classification, for my team is XGBoost. Fine-tune model parameters using techniques like cross-validation and grid search to enhance performance.
+- Model Selection: Choose appropriate algorithms for credit risk classification, I use KMeans for this.
 
-- Results: Assess model performance using metrics such as accuracy, precision, recall, and F1-score. Present results visually and interpret findings to understand the model's effectiveness in predicting credit risk.
-
-- Visualization
-
-
+- Visualization: Visualization project on Power BI.
 
 ## Implementation
 
