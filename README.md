@@ -1,5 +1,7 @@
 # RFM Analysis with KMeans Clustering and Power BI Visualization
 
+![alt text](images/cover.png)
+
 ## Project Overview:
 
 ### 1. Introdution
